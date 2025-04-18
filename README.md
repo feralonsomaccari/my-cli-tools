@@ -9,5 +9,9 @@ I'm planning to rewrite these in Go soon
 
 List of tools:
 
-1) **openrep:**  It opens current working repo in your browser
-2) **openpr:** It opense current PR (if any) into your brwoser
+1. **openrep:** It opens current working repo in your browser
+2. **openpr:** It opense current PR (if any) into your brwoser
+
+### How to Run
+
+Just run the app using the Node interpreter, like node {app}, and it should work if Git is already initialized in your directory. However, I recommend adding it as a binary executable by creating a symbolic link, which is how I use my tools.
