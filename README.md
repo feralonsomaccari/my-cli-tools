@@ -1,11 +1,11 @@
 # My Cli tools
 
-This repo contains all my cli tools I write to optimize my workflow.
+This repository contains all my custom CLI tools that I’ve created to optimize my workflow.
 
-So far I've written two simple tools in NodeJs because I wanted to learn about **Shebangs** which are really cool!
-https://en.wikipedia.org/wiki/Shebang_(Unix)
+So far, I’ve written two simple tools in Node.js to learn about **Shebangs**, which are really cool!
+More about **Shebangs:** https://en.wikipedia.org/wiki/Shebang_(Unix)
 
-I'm planning to rewrite these in Go soon
+I plan to rewrite these tools in **Go** or **C** soon.
 
 List of tools:
 
